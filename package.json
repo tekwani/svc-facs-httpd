@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "@bitfinex/bfx-facs-base": "^1.1.0",
-    "@fastify/static": "^9.0.0",
+    "@fastify/static": "^10.1.7",
     "async": "^3.2.1",
-    "fastify": "^5.7.2"
+    "fastify": "^5.12.7"
   },
   "devDependencies": {
     "standard": "^17.1.0"
